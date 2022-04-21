@@ -9,13 +9,13 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 ## 2. Texture Image Comparison:
 Calculating a score based on the similarity of the two images using either cross-correlation, convolution or sum of squared differences, and comparing the implementation of these algorihms and the MLP classifier.
 <p float="left">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/3.png?raw=true" width="500" />
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/4.png?raw=true" width="500" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/3.png?raw=true" width="200" />
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/4.png?raw=true" width="200" /> 
 
 </p>
 <p float="left">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/5.png?raw=true" width="500" />
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/6.png?raw=true" width="500" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/5.png?raw=true" width="200" />
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/6.png?raw=true" width="200" /> 
 
 </p>
 ## 5. Upside Down Detector:
