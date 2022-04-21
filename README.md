@@ -24,7 +24,7 @@ Calculating a score based on the similarity of the two images using either cross
 ## 3.Regularization and Data Augmentation:
 
 plant images at different resolution captured with a variety of cameras,there are images showing plants with approximatelty 1,2,3,4 and 6 leafs.
-<p float="right">
+<p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true" width="200" /> 
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true" width="200" /> 
 </p>
