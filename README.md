@@ -28,18 +28,16 @@ plant images at different resolution captured with a variety of cameras,there ar
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true" width="200" /> 
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true" width="200" /> 
 </p>
-
-    classification model with batch normalization
-
-        The model keeps overfitting, however the model is worest than the baseline, the training accuracy was up to 90% ,but the test accuracy is only 30%!. The f1 score has decreased for all classes, the highest fq score id 48% for the first class and the lowest f1 score is 18% for the tri-plants as before.
-
-    classification model with dropout
-
-        The model very under fitted, the training accuracy is only 23% while the testing accuracy is 20%. There is no f1 score all are zeros except for the first class and the second class. The first class has a f1 score of 38% while the second class has a f1 score of 18%
-
-    classification model with data augmentation
-
-        The model overfitted, the training accuracy is about 70% while the test accuracy is 47% on test data. The highest f1 score is for the first class which records a score of 64%. the lowest f1 score is 17% for the third class.
+We used both classification and regression VGG16 model, the classification model performed better. Hence we made 3 models with different image processing techniques.
+> The classification model with batch normalization overfitted.
+> The classification model with dropout underfitted
+> The classification model with data augmentation overfitted.
+Here is the learning curves from left to rigth in order:
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/10.png?raw=true" width="200" /> 
+        <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.png?raw=true" width="200" /> 
+</p>
 
 
 ## 5. Upside Down Detector:
