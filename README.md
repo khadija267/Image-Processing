@@ -12,6 +12,7 @@ Calculating a score based on the similarity of the two images using either cross
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/3.png?raw=true" width="100" />
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/4.png?raw=true" width="100" /> 
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/5.png?raw=true" width="100" />
+    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/6.png?raw=true" width="100" />
 </p>
 
 ## 5. Upside Down Detector:
