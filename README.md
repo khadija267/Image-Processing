@@ -1,2 +1,2 @@
-# Computer-Vision
-A computer vision based solution using both of classic machine learning techniques, ensembe, and deep learning.
+# Image Processing
+Implementation of different image processing algorithms using python and matlab
