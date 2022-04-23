@@ -29,9 +29,9 @@ plant images at different resolution captured with a variety of cameras,there ar
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true" width="200" /> 
 </p>
 We used both classification and regression VGG16 model, the classification model performed better. Hence we made 3 models with different image processing techniques.
-> The classification model with batch normalization overfitted.
-> The classification model with dropout underfitted
-> The classification model with data augmentation overfitted.
+- The classification model with batch normalization overfitted.
+- The classification model with dropout underfitted
+- The classification model with data augmentation overfitted.
 Here is the learning curves from left to rigth in order:
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true" width="200" /> 
