@@ -57,15 +57,11 @@ The true label is the image is not flipped, while the model sees it as it's flip
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/16.png?raw=true" width="250" /> 
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/14.png?raw=true" width="250" /> 
 </p>
+
 Model Performance:
               precision    recall  f1-score   support
 
            0       0.48      0.60      0.53       500
            1       0.47      0.35      0.40       500
-
-    accuracy                           0.48      1000
-   macro avg       0.47      0.47      0.47      1000
-weighted avg       0.47      0.47      0.47      1000
-
 
 
