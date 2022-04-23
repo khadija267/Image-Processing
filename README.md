@@ -40,9 +40,9 @@ We used both classification and regression VGG16 model, the classification model
 - The classification model with data augmentation overfitted.
 Here is the learning curves from left to rigth in order:
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true" width="200" /> 
-    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/10.png?raw=true" width="200" /> 
-        <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.png?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/10.png?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.png?raw=true" width="300" /> 
 </p>
 
 
