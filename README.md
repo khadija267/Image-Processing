@@ -59,6 +59,7 @@ The true label is the image is not flipped, while the model sees it as it's flip
 </p>
 
 Model Performance:
+
               precision    recall  f1-score   support
 
            0       0.48      0.60      0.53       500
