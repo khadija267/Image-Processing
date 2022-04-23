@@ -46,7 +46,7 @@ Here is the learning curves from left to rigth in order:
 </p>
 
 
-## 5. Upside Down Detector:
+## 4. Upside Down Detector:
 
 Train a model to detect if images are upside down using the mnist dataset.<br>
 ![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/2.png?raw=true)
