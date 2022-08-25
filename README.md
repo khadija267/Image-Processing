@@ -13,7 +13,7 @@ Simple matlab code for webcam captured images (with white background) enhancemen
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/13.png?raw=true" width="200" /> 
 </p>
 Calculating a score based on the similarity of the two images using either cross-correlation, convolution or sum of squared differences, and comparing the implementation of these algorihms and the MLP classifier.
-
+<br>
 <p float="left">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/3.png?raw=true" width="400" />
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/4.png?raw=true" width="400" /> 
