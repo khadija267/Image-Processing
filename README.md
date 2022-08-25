@@ -27,22 +27,5 @@ Calculating a score based on the similarity of the two images using either cross
 <br>
 
 
-## 3.Regularization and Data Augmentation:
-
-plant images at different resolution captured with a variety of cameras,there are images showing plants with approximatelty 1,2,3,4 and 6 leafs.
-<p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true" width="200" /> 
-    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true" width="200" /> 
-</p>
-We used both classification and regression VGG16 model, the classification model performed better. Hence we made 3 models with different image processing techniques.
-- The classification model with batch normalization overfitted.
-- The classification model with dropout underfitted
-- The classification model with data augmentation overfitted.
-Here is the learning curves from left to rigth in order:
-<p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true" width="250" /> 
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/10.png?raw=true" width="250" /> 
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.png?raw=true" width="250" /> 
-</p>
 
 
