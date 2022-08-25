@@ -46,23 +46,3 @@ Here is the learning curves from left to rigth in order:
 </p>
 
 
-## 4. Upside Down Detector:
-
-Train a model to detect if images are upside down using the mnist dataset.<br>
-The true label is the image is flipped (represents the number 9), while the model sees it as it's non-flipped 6.
-The true label is the image is not flipped, while the model sees it as it's flipped 8.
-
-<p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/15.png?raw=true" width="250" /> 
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/16.png?raw=true" width="250" /> 
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/14.png?raw=true" width="250" /> 
-</p>
-
-Model Performance:
-
-              precision    recall  f1-score   support
-
-           0       0.48      0.60      0.53       500
-           1       0.47      0.35      0.40       500
-
-
