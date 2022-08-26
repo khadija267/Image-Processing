@@ -7,9 +7,11 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 ![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true)
 
 ## 2.Threshold Segemntation:
-
-![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true)
-![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true)
+This project aims to segment the green backgrounded car image and replace the its background by the sky background.
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true" width="200" /> 
+</p>
 
 ## 3.Texture Image Comparison:
 
