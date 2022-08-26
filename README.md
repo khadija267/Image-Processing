@@ -15,7 +15,7 @@ This project aims to segment the green backgrounded car image and replace the it
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true" width="300" /> 
 </p>
 
-![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true width="300")
+![alt text]("https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true" width="300")
 
 ![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true width="300")
 ![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/9.png?raw=true width="300")
