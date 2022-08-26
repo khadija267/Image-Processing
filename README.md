@@ -8,8 +8,8 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 
 ## 2.Threshold Segemntation:
 
-![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.png?raw=true)
-![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.png?raw=true)
+![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true)
+![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true)
 
 ## 3.Texture Image Comparison:
 
