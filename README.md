@@ -6,7 +6,12 @@ Implementation of different image processing algorithms using python and matlab
 Simple matlab code for webcam captured images (with white background) enhancement and segmentation then to recognize fingers count.
 ![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true)
 
-## 2.Texture Image Comparison:
+## Threshold Segemntation:
+
+![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.png?raw=true)
+![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/sky.png?raw=true)
+
+## 3.Texture Image Comparison:
 
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/12.png?raw=true" width="200" /> 
