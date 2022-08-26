@@ -17,15 +17,15 @@ We are going to use the HSV color system which isolates the value that varied un
 Average brightness is high for day images.
 
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/16.jpg?raw=true" width="300" />  
- <img src="https://github.com/khadija267/Image-Processing/blob/main/images/17.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/16.PNG?raw=true" width="300" />  
+ <img src="https://github.com/khadija267/Image-Processing/blob/main/images/17.PNG?raw=true" width="300" /> 
 </p>
 
 We plotted the average brightness for all training images, we used ot to be above 95, and this a comparison 
 between the tru lael and the estimated label of the image in the right.
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/18.jpg?raw=true" width="300" />  
- <img src="https://github.com/khadija267/Image-Processing/blob/main/images/19.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/18.PNG?raw=true" width="300" />  
+ <img src="https://github.com/khadija267/Image-Processing/blob/main/images/19.PNG?raw=true" width="300" /> 
 </p>
 
 We evaluated the classifier by the accuracy and it fails in 16 images out of 160 in the test images. <br>
