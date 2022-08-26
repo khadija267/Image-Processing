@@ -12,7 +12,7 @@ This project aims to classify day and night images using image processing.
 We are going to use the HSV color system which isolates the value that varied under different lighting conditions.
 
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/20.PNG?raw=true" width="400" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/20.PNG?raw=true" width="700" /> 
 </p>
 Average brightness is high for day images.
 
