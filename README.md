@@ -14,7 +14,7 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 ## 2. Day and Night Classifier:
 
 <p float="center">
-  <img src="https://github.com/khadija267Image-Processing/blob/main/images/11.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.jpg?raw=true" width="200" /> 
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/15.jpg?raw=true" width="200" /> 
 </p>
 
