@@ -59,7 +59,7 @@ def standardize_input(image):
 # encode("night") should return: 0
 def encode(label):
         
-    numerical_val = [ 0 label == "night" else 1]
+    numerical_val = [ 0 if label == "night" else 1]
     
     return numerical_val
 
