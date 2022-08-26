@@ -28,8 +28,8 @@ between the tru lael and the estimated label of the image in the right.
  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/19.PNG?raw=true" width="300" /> 
 </p>
 
-We evaluated the classifier by the accuracy and it fails in 16 images out of 160 in the test images. <br>
-Accuracy: 0.9125
+We evaluated the classifier by the accuracy and it fails in 14 images out of 160 in the test images. <br>
+Accuracy: 0.9125 <br>
 Number of misclassified images = 14 out of 160
 
 ## 2.Threshold Segementation:
