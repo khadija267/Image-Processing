@@ -11,15 +11,24 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 ## 2.Threshold Segementation:
 This project aims to segment the green backgrounded car image and replace the its background by the sky background.
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true" width="300" /> 
-    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/sky.jpg?raw=true" width="200" /> 
 </p>
+
+We used the Cv2 library and converted our image to an cv2 rgb image (image in the left), then we have applied our threshold
+selecting the green color in the background to creat a mask ( image in the center ) , then applied the mask to original image
+(image in the right).
+<br>
+
 
 <p float="left">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.PNG?raw=true" width="400" />
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.PNG?raw=true" width="400" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.PNG?raw=true" width="200" />
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/2.PNG?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.PNG?raw=true" width="200" /> 
 
 </p>
+
+
 
 ## 3.Texture Image Comparison:
 
