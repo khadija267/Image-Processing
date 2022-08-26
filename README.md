@@ -11,7 +11,14 @@ Simple matlab code for webcam captured images (with white background) enhancemen
 
 </p>
 
-## 2.Threshold Segementation:
+## 2. Day and Night Classifier:
+
+<p float="center">
+  <img src="https://github.com/khadija267Image-Processing/blob/main/images/11.jpg?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/15.jpg?raw=true" width="200" /> 
+</p>
+
+## 3.Threshold Segementation:
 This project aims to segment the green backgrounded car image and replace the its background by the sky background.
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true" width="200" /> 
@@ -39,7 +46,7 @@ afterwards, we summed the masked image and the resized masked background (image 
 
 </p>
 
-## 3.Texture Image Comparison:
+## 4.Texture Image Comparison:
 
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/12.png?raw=true" width="200" /> 
