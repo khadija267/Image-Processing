@@ -1,24 +1,38 @@
 # Image Processing
 Implementation of different image processing algorithms using python and matlab
 
-## 1.Gesture Detection:
-
-Simple matlab code for webcam captured images (with white background) enhancement and segmentation then to recognize fingers count.
-<br>
-
-<p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true" width="700" /> 
-
-</p>
-
-## 2. Day and Night Classifier:
+## 1. Day and Night Classifier:
+This project aims to classify day and night images using image processing.
 
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/11.jpg?raw=true" width="200" /> 
     <img src="https://github.com/khadija267/Image-Processing/blob/main/images/15.jpg?raw=true" width="200" /> 
 </p>
 
-## 3.Threshold Segementation:
+We are going to use the HSV color system which isolates the value that varied under different lighting conditions.
+
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/20.PNG?raw=true" width="400" /> 
+</p>
+Average brightness is high for day images.
+
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/16.jpg?raw=true" width="300" />  
+ <img src="https://github.com/khadija267/Image-Processing/blob/main/images/17.jpg?raw=true" width="300" /> 
+</p>
+
+We plotted the average brightness for all training images, we used ot to be above 95, and this a comparison 
+between the tru lael and the estimated label of the image in the right.
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/18.jpg?raw=true" width="300" />  
+ <img src="https://github.com/khadija267/Image-Processing/blob/main/images/19.jpg?raw=true" width="300" /> 
+</p>
+
+We evaluated the classifier by the accuracy and it fails in 16 images out of 160 in the test images. <br>
+Accuracy: 0.9125
+Number of misclassified images = 14 out of 160
+
+## 2.Threshold Segementation:
 This project aims to segment the green backgrounded car image and replace the its background by the sky background.
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/car_green_screen.jpg?raw=true" width="200" /> 
@@ -46,7 +60,7 @@ afterwards, we summed the masked image and the resized masked background (image 
 
 </p>
 
-## 4.Texture Image Comparison:
+## 3.Texture Image Comparison:
 
 <p float="center">
   <img src="https://github.com/khadija267/Image-Processing/blob/main/images/12.png?raw=true" width="200" /> 
@@ -65,6 +79,16 @@ Calculating a score based on the similarity of the two images using either cross
 
 </p>
 <br>
+
+## 4.Gesture Detection:
+
+Simple matlab code for webcam captured images (with white background) enhancement and segmentation then to recognize fingers count.
+<br>
+
+<p float="center">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true" width="700" /> 
+
+</p>
 
 
 
