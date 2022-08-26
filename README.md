@@ -28,7 +28,13 @@ selecting the green color in the background to creat a mask ( image in the cente
 
 </p>
 
+we resized the background image as the same size of the car image, then applied the mask on it (image in the left),
+afterwards, we summed the masked image and the resized masked background (image in the right).
+<p float="left">
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/9.PNG?raw=true" width="200" />
+  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/10.PNG?raw=true" width="200" /> 
 
+</p>
 
 ## 3.Texture Image Comparison:
 
