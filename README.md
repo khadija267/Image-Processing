@@ -5,11 +5,7 @@ Implementation of different image processing algorithms using python and matlab
 
 Simple matlab code for webcam captured images (with white background) enhancement and segmentation then to recognize fingers count.
 <br>
-
-<p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true" width="400" /> 
-
-</p>
+![alt text](https://github.com/khadija267/Image-Processing/blob/main/images/1.png?raw=true)
 
 ## 2.Threshold Segementation:
 This project aims to segment the green backgrounded car image and replace the its background by the sky background.
